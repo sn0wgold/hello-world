@@ -15,4 +15,4 @@
 2. [  $\lambda\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ] $=$ $\lambda$[  $\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ]
 3. [  $\overrightarrow{a_1} + \overrightarrow{a_2}$ , $\overrightarrow{b}$ ] $=$ [  $\overrightarrow{a_1}$ , $\overrightarrow{b}$ ] $+$ [  $\overrightarrow{a_2}$ , $\overrightarrow{b}$ ]
 
-Если $\overrightarrow{a_1}$ $=$ { $X_1, Y_1, Z_1$ } и $\overrightarrow{a_2}$ $=$ { $X_2, Y_2, Z_2$ }
+Если $\overrightarrow{a_1}$ $=$ **{** $X_1, Y_1, Z_1$ **}** и $\overrightarrow{a_2}$ $=$ **{** $X_2, Y_2, Z_2$ **}**
