@@ -8,4 +8,4 @@
 
 3.  Упорядоченная тройка $\overrightarrow{a_1}$, $\overrightarrow{a_2}$, [ $\overrightarrow{a_1}$, $\overrightarrow{a_2}$ ] правая.
 
-Из определения векторного произведения следует, что $$\overrightarrow{a_1} || \overrightarrow{a_2}  \Leftrightarrow [  \overrightarrow{a_1} , \overrightarrow{a_2} ] = 0$$
+Из определения векторного произведения следует, что $$\overrightarrow{a_1}  ||  \overrightarrow{a_2}  \Leftrightarrow [  \overrightarrow{a_1} , \overrightarrow{a_2} ] = 0$$
