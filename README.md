@@ -17,7 +17,7 @@
 
 Если $\overrightarrow{a_1}$ $=$ **{** $X_1, Y_1, Z_1$ **}** и $\overrightarrow{a_2}$ $=$ **{** $X_2, Y_2, Z_2$ **}** $-$ векторы, заданные своими координатами в правом прямоугольном базисе, то разложение векторого произведения [  $\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ] в том же базисе имеет вид:
 
-$$
+$$ [  $\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ] $=$
 \begin{bmatrix} 
 	\overrightarrow{i} & \overrightarrow{j} & \overrightarrow{k} \\
 	X_1 & Y_1 & Z_1\\
