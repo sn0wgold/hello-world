@@ -19,7 +19,7 @@
 
 $$
 \begin{bmatrix} 
-	$\overrightarrow{i}$ & $\overrightarrow{j}$ & $\overrightarrow{k}$ \\
+	\overrightarrow{i} & \overrightarrow{j} & \overrightarrow{k} \\
 	X_1 & Y_1 & Z_1\\
 	X_2 & Y_2 & Z_2 \\
 \end{bmatrix}
