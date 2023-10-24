@@ -15,4 +15,10 @@
 2. [  $\lambda\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ] $=$ $\lambda$[  $\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ]
 3. [  $\overrightarrow{a_1} + \overrightarrow{a_2}$ , $\overrightarrow{b}$ ] $=$ [  $\overrightarrow{a_1}$ , $\overrightarrow{b}$ ] $+$ [  $\overrightarrow{a_2}$ , $\overrightarrow{b}$ ]
 
-Если $\overrightarrow{a_1}$ $=$ **{** $X_1, Y_1, Z_1$ **}** и $\overrightarrow{a_2}$ $=$ **{** $X_2, Y_2, Z_2$ **}**
+Если $\overrightarrow{a_1}$ $=$ **{** $X_1, Y_1, Z_1$ **}** и $\overrightarrow{a_2}$ $=$ **{** $X_2, Y_2, Z_2$ **}** $-$ векторы, заданные своими координатами в правом прямоугольном базисе, то разложение векторого произведения [  $\overrightarrow{a_1}$ , $\overrightarrow{a_2}$ ] в том же базисе имеет вид:
+
+\begin{bmatrix} 
+	a & b & c \\
+	c & d & d\\
+	e & f & g \\
+\end{bmatrix}
